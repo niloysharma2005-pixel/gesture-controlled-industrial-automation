@@ -205,8 +205,4 @@ RUN_STREAMING_DEMO      = True   # Offline deployment simulation
 
 ## 👤 Contributors
 
-- Niloy Sharma (102403422) — Thapar Institute of Engineering & Technology
-
-## 📄 License
-
-This project is created for academic purposes as part of the AI/ML course (UCS321) at Thapar Institute of Engineering & Technology.
+- Niloy Sharma
