@@ -1,0 +1,46 @@
+# Dataset (too large for Git — download from Kaggle)
+HGAG-DATA/
+hgag-data/
+*.csv
+!requirements.txt
+
+# Notebook outputs / checkpoints
+hgag_clean_folds/
+hgag_results_final/
+*.npz
+*.npy
+*.tflite
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Kaggle
+kaggle.json
