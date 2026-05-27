@@ -206,3 +206,5 @@ RUN_STREAMING_DEMO      = True   # Offline deployment simulation
 ## 👤 Contributors
 
 - Niloy Sharma
+- Arnav Bhatia
+- Sukhesh Garg
